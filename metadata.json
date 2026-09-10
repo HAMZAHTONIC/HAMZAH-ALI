@@ -1,0 +1,6 @@
+{
+  "name": "HomeoClinic",
+  "description": "A mobile-first clinical support assistant for elderly users providing homeopathic medicine recommendations strictly based on an authenticated Materia Medica knowledge base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
